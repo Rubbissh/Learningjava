@@ -1,0 +1,1 @@
+We shall learn java, and java shall be learned.
